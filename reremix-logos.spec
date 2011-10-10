@@ -3,7 +3,7 @@
 
 Name: reremix-logos
 Summary: Red Hat-related icons and pictures
-Version: 60.0.14.1
+Version: 60.0.14.2
 Release: 1.el6.R
 Group: System Environment/Base
 # No upstream, do in dist-cvs
@@ -194,6 +194,9 @@ fi
 # end i386 bits
 
 %changelog
+* Mon Oct 10 2011 Arkady L. Shane <ashejn@russianfedora.ru> 60.0.14.2-1.el6.R
+- another logo
+
 * Fri Mar  1 2011 Arkady L. Shane <ashejn@russianfedora.ru> 60.0.14.1-1.el6.R
 - new vesa logo
 - update to 60.0.14.1
