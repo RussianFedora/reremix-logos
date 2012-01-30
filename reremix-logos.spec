@@ -3,7 +3,7 @@
 
 Name: reremix-logos
 Summary: Red Hat-related icons and pictures
-Version: 60.0.14.3
+Version: 60.0.14.4
 Release: 1%{?dist}.R
 Group: System Environment/Base
 # No upstream, do in dist-cvs
@@ -194,6 +194,9 @@ fi
 # end i386 bits
 
 %changelog
+* Mon Jan 30 2012 Arkady L. Shane <ashejn@russianfedora.ru> 60.0.14.4-1.R
+- update logos
+
 * Fri Oct 28 2011 Arkady L. Shane <ashejn@russianfedora.ru> 60.0.14.3-1.R
 - sync with new SL logos. We will change it before release
 
