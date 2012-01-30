@@ -1,0 +1,2 @@
+*Render at the exact sizes of the upstream wallpapers (or somehow rig resolutions differently)
+*Get new supplementary wallpapers (Large Hadron Collider?)
