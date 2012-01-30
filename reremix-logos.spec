@@ -7,7 +7,7 @@ Version: 60.0.14.4
 Release: 1%{?dist}.R
 Group: System Environment/Base
 # No upstream, do in dist-cvs
-Source0: http://download.rfremix.ru/storage/reremix-logos/reremix-logos-%{version}.tar.bz2
+Source0: reremix-logos-%{version}.tar.bz2
 
 License: GPLv2
 URL: http://russianfedora.ru
