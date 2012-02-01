@@ -4,7 +4,7 @@
 Name: reremix-logos
 Summary: Red Hat-related icons and pictures
 Version: 60.0.14.6
-Release: 1%{?dist}.R
+Release: 2%{?dist}.R
 Group: System Environment/Base
 # No upstream, do in dist-cvs
 Source0: reremix-logos-%{version}.tar.bz2
@@ -194,6 +194,9 @@ fi
 # end i386 bits
 
 %changelog
+* Wed Feb  1 2012 Arkady L. Shane <ashejn@russianfedora.ru> 60.0.14.6-2.R
+- finally fix
+
 * Tue Jan 31 2012 Arkady L. Shane <ashejn@russianfedora.ru> 60.0.14.6-1.R
 - update firstboot logo
 
